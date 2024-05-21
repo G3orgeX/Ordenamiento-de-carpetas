@@ -1,0 +1,10 @@
+C:\Users\jorgedc.JOSEGUMA\Desktop\Ordenamiento de carpetas\Ordenamiento de carpetas\bin\Debug\Ordenamiento de carpetas.exe.config
+C:\Users\jorgedc.JOSEGUMA\Desktop\Ordenamiento de carpetas\Ordenamiento de carpetas\bin\Debug\Ordenamiento de carpetas.exe
+C:\Users\jorgedc.JOSEGUMA\Desktop\Ordenamiento de carpetas\Ordenamiento de carpetas\bin\Debug\Ordenamiento de carpetas.pdb
+C:\Users\jorgedc.JOSEGUMA\Desktop\Ordenamiento de carpetas\Ordenamiento de carpetas\obj\Debug\Ordenamiento de carpetas.csproj.AssemblyReference.cache
+C:\Users\jorgedc.JOSEGUMA\Desktop\Ordenamiento de carpetas\Ordenamiento de carpetas\obj\Debug\Ordenamiento_de_carpetas.Form1.resources
+C:\Users\jorgedc.JOSEGUMA\Desktop\Ordenamiento de carpetas\Ordenamiento de carpetas\obj\Debug\Ordenamiento_de_carpetas.Properties.Resources.resources
+C:\Users\jorgedc.JOSEGUMA\Desktop\Ordenamiento de carpetas\Ordenamiento de carpetas\obj\Debug\Ordenamiento de carpetas.csproj.GenerateResource.cache
+C:\Users\jorgedc.JOSEGUMA\Desktop\Ordenamiento de carpetas\Ordenamiento de carpetas\obj\Debug\Ordenamiento de carpetas.csproj.CoreCompileInputs.cache
+C:\Users\jorgedc.JOSEGUMA\Desktop\Ordenamiento de carpetas\Ordenamiento de carpetas\obj\Debug\Ordenamiento de carpetas.exe
+C:\Users\jorgedc.JOSEGUMA\Desktop\Ordenamiento de carpetas\Ordenamiento de carpetas\obj\Debug\Ordenamiento de carpetas.pdb
